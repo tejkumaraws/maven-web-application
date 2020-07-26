@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.38.223:8081/repository/tej-snapshot</url>
+	      <url>http://13.127.38.223:8081/repository/Tej-snapshot</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
